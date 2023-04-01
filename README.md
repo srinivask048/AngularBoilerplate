@@ -31,3 +31,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 set the below before running npm command in case of any proxy errors:
 npm config set registry http://registry.npmjs.org/
+
+adding sample file
